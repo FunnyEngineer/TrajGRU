@@ -8,7 +8,7 @@ cfg = __C
 __C.GLOBAL = edict()
 __C.GLOBAL.DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 __C.GLOBAL.BATCH_SZIE = 2
-for dirs in ['/home/hzzone/save', '/Users/hzzone/Downloads']:
+for dirs in ['./model_store']:
     if os.path.exists(dirs):
         __C.GLOBAL.MODEL_SAVE_DIR = dirs
 assert __C.GLOBAL.MODEL_SAVE_DIR is not None

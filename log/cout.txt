@@ -1,0 +1,117 @@
+
+============================ Messages from Goddess============================
+ * Job starting from: Wed Aug 11 20:11:09 CST 2021
+ * Job ID : 6253
+ * Job name : TrajGRU
+ * Job partition : rtx2080ti
+ * Nodes : 1
+ * Cores : 8
+ * Working directory: ~/research/Precipitation-Nowcasting
+===============================================================================
+
+Loading python/3.8.10-gpu
+  Loading requirement: cuda/11.2
+Iteration 1: train loss == 7.239380359649658
+Iteration 21: train loss == 7.154521465301514
+Iteration 41: train loss == 3.8041138648986816
+Iteration 61: train loss == 1.0433697700500488
+Iteration 81: train loss == 0.4851459860801697
+Iteration 101: train loss == 0.3315078616142273
+Iteration 121: train loss == 0.2883906066417694
+Iteration 141: train loss == 0.29034221172332764
+Iteration 161: train loss == 0.261846125125885
+Iteration 181: train loss == 0.23225988447666168
+Iteration 201: train loss == 0.21489159762859344
+Iteration 221: train loss == 0.20128539204597473
+Iteration 241: train loss == 0.22628304362297058
+Iteration 261: train loss == 0.18133261799812317
+Iteration 281: train loss == 0.17835131287574768
+Iteration 301: train loss == 0.17059199512004852
+Iteration 321: train loss == 0.17451022565364838
+Iteration 341: train loss == 0.1643500030040741
+Iteration 361: train loss == 0.15818293392658234
+Iteration 381: train loss == 0.1562708020210266
+Iteration 401: train loss == 0.15750467777252197
+Iteration 421: train loss == 0.14037756621837616
+Iteration 441: train loss == 0.1650231033563614
+Iteration 461: train loss == 0.13296367228031158
+Iteration 481: train loss == 0.13945727050304413
+Iteration 501: train loss == 0.16665293276309967
+Iteration 521: train loss == 0.18555940687656403
+Iteration 541: train loss == 0.13867753744125366
+Iteration 561: train loss == 0.12977594137191772
+Iteration 581: train loss == 0.15377143025398254
+Iteration 601: train loss == 0.12709392607212067
+Iteration 621: train loss == 0.13171033561229706
+Iteration 641: train loss == 0.11119087785482407
+Iteration 661: train loss == 0.12236707657575607
+Iteration 681: train loss == 0.1176421120762825
+Iteration 701: train loss == 0.11503896117210388
+Iteration 721: train loss == 0.11506559699773788
+Iteration 741: train loss == 0.10805511474609375
+Iteration 761: train loss == 0.11194750666618347
+Iteration 781: train loss == 0.10796463489532471
+Iteration 801: train loss == 0.13426406681537628
+Iteration 821: train loss == 0.13313566148281097
+Iteration 841: train loss == 0.1326330304145813
+Iteration 861: train loss == 0.12860718369483948
+Iteration 881: train loss == 0.10416533797979355
+Iteration 901: train loss == 0.1010686531662941
+Iteration 921: train loss == 0.17150157690048218
+Iteration 941: train loss == 0.197633296251297
+Iteration 961: train loss == 0.11376618593931198
+Iteration 981: train loss == 0.12649473547935486
+Iteration 1001: train loss == 0.09942198544740677
+Iteration 1021: train loss == 0.11591620743274689
+Iteration 1041: train loss == 0.11609512567520142
+Iteration 1061: train loss == 0.10848729312419891
+Iteration 1081: train loss == 0.11523430049419403
+Iteration 1101: train loss == 0.0915757268667221
+Iteration 1121: train loss == 0.0913601815700531
+Iteration 1141: train loss == 0.11009048670530319
+Iteration 1161: train loss == 0.10814034193754196
+Iteration 1181: train loss == 0.10145620256662369
+Iteration 1201: train loss == 0.1504776030778885
+Iteration 1221: train loss == 0.15144795179367065
+Iteration 1241: train loss == 0.14761681854724884
+Iteration 1261: train loss == 0.13666650652885437
+Iteration 1281: train loss == 0.14419429004192352
+Iteration 1301: train loss == 0.12500791251659393
+Iteration 1321: train loss == 0.15408791601657867
+Iteration 1341: train loss == 0.13947398960590363
+Iteration 1361: train loss == 0.13929881155490875
+Iteration 1381: train loss == 0.09805004298686981
+Iteration 1401: train loss == 0.09889030456542969
+Iteration 1421: train loss == 0.10802394896745682
+Iteration 1441: train loss == 0.0856168195605278
+Iteration 1461: train loss == 0.09892324358224869
+Iteration 1481: train loss == 0.08658420294523239
+Iteration 1501: train loss == 0.10742147266864777
+Iteration 1521: train loss == 0.10284236818552017
+Iteration 1541: train loss == 0.085903100669384
+Iteration 1561: train loss == 0.10507472604513168
+Iteration 1581: train loss == 0.09709849208593369
+Iteration 1601: train loss == 0.09411358088254929
+Iteration 1621: train loss == 0.12364750355482101
+Iteration 1641: train loss == 0.09944853186607361
+Iteration 1661: train loss == 0.09367097169160843
+Iteration 1681: train loss == 0.08648208528757095
+Iteration 1701: train loss == 0.11204893887042999
+Iteration 1721: train loss == 0.09146003425121307
+Iteration 1741: train loss == 0.08949720859527588
+Iteration 1761: train loss == 0.09009091556072235
+Iteration 1781: train loss == 0.08702865242958069
+Iteration 1801: train loss == 0.08937852829694748
+Iteration 1821: train loss == 0.09656175971031189
+Iteration 1841: train loss == 0.08888522535562515
+Iteration 1861: train loss == 0.09432987123727798
+Iteration 1881: train loss == 0.08983730524778366
+Iteration 1901: train loss == 0.08933980762958527
+Iteration 1921: train loss == 0.11457119882106781
+Iteration 1941: train loss == 0.10310255736112595
+Iteration 1961: train loss == 0.09348508715629578
+Iteration 1981: train loss == 0.1459418684244156
+
+============================ Messages from Goddess============================
+ * Jab ended at : Wed Aug 11 22:03:22 CST 2021
+===============================================================================
